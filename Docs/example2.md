@@ -1,4 +1,4 @@
-# Microsoft +++ Enterprise Mobility - Technical Documentation Contributor Guide
+# Microsoft (bla bla bla) Enterprise Mobility - Technical Documentation Contributor Guide
 
 You've found the GitHub repository that houses the source for the Microsoft Azure Rights Management (RMS) documentation, published to the Microsoft Enterprise Mobility (EM) Documentation Center at [https://docs.microsoft.com/en-us/enterprise-mobility/](https://docs.microsoft.com/en-us/enterprise-mobility/).
 
