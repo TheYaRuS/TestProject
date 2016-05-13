@@ -5,7 +5,7 @@ TestProject Documentation
 This repository contains a major revision of the TestProject documentation,
 currently accessible at http://mytestproject.readthedocs.io. You can build
 the documentation locally if you have `Sphinx
-<http://www.sphinx-doc.org/>`_ and Inkscape installed: ::
+<http://www.sphinx-doc.org/>`_  ::
 
      pip install sphinx
      git clone https://github.com/TheYaRuS/TestProject.git
