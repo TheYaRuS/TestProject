@@ -12,7 +12,7 @@ Contents:
    :maxdepth: 2
    
    example1
-   example2
+   example2.md
 
 
 
