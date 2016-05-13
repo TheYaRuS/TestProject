@@ -1,5 +1,5 @@
-Section Header
-===============
+Very first nothing meaning article, as example
+==============================================
 
 Subsection Header
 -----------------
