@@ -1,4 +1,4 @@
-Section Header1
+Section Header
 ===============
 
 Subsection Header
@@ -19,7 +19,8 @@ Subsection Header
    a) Sub item that goes on at length and thus needs
       to be wrapped. Note the indentation that must
       match the beginning of the text, not the 
-      enumerator.
+      enumerator. Editing
+	
 
       i) List items can even include
 
