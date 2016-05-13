@@ -1,5 +1,5 @@
 Section Header1
-==============+
+===============
 
 Subsection Header
 -----------------
