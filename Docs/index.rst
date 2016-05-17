@@ -13,7 +13,7 @@ Contents:
    
    example1
    example2
-   GZAP
+   GZAPcorrect
 
 
 
